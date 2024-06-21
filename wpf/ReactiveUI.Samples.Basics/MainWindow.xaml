@@ -35,7 +35,7 @@
                     IsEnabled="False" />
             </StackPanel>
         </Expander>
-        <Expander Header="Memoizing MRU" IsExpanded="True">
+        <Expander Header="Memorizing MRU" IsExpanded="True">
             <StackPanel>
                 <StackPanel Orientation="Horizontal">
                     <TextBlock Text="Calculate (x) =&gt; (x * 10): " />
